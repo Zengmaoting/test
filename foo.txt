@@ -1,14 +1,1 @@
 Monday-Friday
->>>>>>> fix1
-Zeng Maoting
->>>>>>> 2eefe636f3b591c4491bcbc8c548b3909017408c
-
-Fun about to begin.
-
-<<<<<<< HEAD
-Groundhog day
-=======
-Change from someone else
->>>>>>> 9daa0f244869bb29ede409e4814241cff94aed7d
-
-Change from local clone
